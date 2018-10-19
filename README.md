@@ -1,2 +1,2 @@
 # gittutoral
-This is a practice run on using github with Rstudio
+This is a practice run on using github with Rstudio for the NRES 800 sampling data management and visualization class. See course description [(https://bulletin.unl.edu/courses/NRES/800)] 
